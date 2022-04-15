@@ -129,6 +129,7 @@
        margin-top: 60px;
        margin-left:300px;
        gap: 10px;
+       color: whitesmoke;
 }
 .callAction .actionInfo button{
     background: #3882F6;
@@ -136,6 +137,7 @@
     border-radius: 3px;
     padding-left: 25px;
     padding-right: 25px;
+    color: whitesmoke;
 }
 .footer{
     height: 50px;
